@@ -1,4 +1,4 @@
 # DeepSafeForecast
 
-#Authors
+# Author
 Sepehr Sharifi
